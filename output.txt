@@ -1,0 +1,9 @@
+token ---------- lexems
+
+while ---------- keyword
+(t ---------- identifier
+< ---------- operator
+lower) ---------- identifier
+r ---------- identifier
+= ---------- operator
+28.00; ---------- identifier
